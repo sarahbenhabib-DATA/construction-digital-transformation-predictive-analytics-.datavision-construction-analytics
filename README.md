@@ -11,22 +11,39 @@ Nuestro proyecto, **DataVision**, responde a este desafío con una solución bas
 
 ---
 
-## Fonctionnalités Clés & Stack Technique
-- **Intégration de données multinacionales** via une architecture Data Lakehouse.
-- **Prédiction de desviaciones de coste y plazo** pour anticiper les risques financiers et opérationnels.
-- **Machine Learning & Statistique** avec des outils comme **R** et **Orange**.
-- **Visualisation & Pilotage** avec **Power BI** pour la prise de décision en temps réel.
-- **Gestion de projet hybride** : Approche combinant Waterfall (Gantt) et agilité (Scrum), enrichie par la conduite du changement (modèle ADKAR), l'amélioration continue (Kaizen) et des matrices de risques validées par tests techniques et UAT.
+# 🏗️ Transformación Digital en Construcción: de la complejidad a la inteligencia estratégica
+
+> **Trabajo de Fin de Máster (TFM) en Business Intelligence & Data Analytics — Proyecto DataVision**
+
+En un sector marcado por la complejidad, la fragmentación de datos y la baja adopción analítica, surge un reto clave:  
+**¿Cómo tomar decisiones estratégicas en entornos internacionales con información dispersa y tardía?**
+
+Nuestro proyecto, **DataVision**, responde a este desafío con una solución basada en analítica predictiva, Machine Learning y arquitectura Data Lakehouse en entorno cloud.
 
 ---
 
-## Impact & Résultats
-- **Contrôle accru** : Renforcement majeur du contrôle financier et opérationnel.
-- **Proactivité** : Identification précoce et proactive des risques de dérive.
-- **Rentabilité** : ROI estimé à **779%**.
-- **Cas d'usage** : Validation sur des cas réels à fort impact économique.
+## Funcionalidades Clave y Stack Tecnológico
+- **Integración de datos multinacionales** mediante una arquitectura Data Lakehouse.
+- **Predicción de desviaciones de coste y plazo** para anticipar riesgos financieros y operativos.
+- **Machine Learning y análisis estadístico** con herramientas como **R** y **Orange**.
+- **Visualización y Business Intelligence** con **Power BI** para la toma de decisiones en tiempo real.
+- **Gestión de proyectos híbrida** : Enfoque combinando Waterfall (Gantt) y agilidad (Scrum), enriquecido con gestión del cambio (modelo ADKAR), mejora continua (Kaizen) y una matriz de riesgos validada mediante tests técnicos y UAT.
 
 ---
+
+## Impacto y Resultados Clave
+- **Mayor control financiero y operativo** en los proyectos.
+- **Identificación proactiva de riesgos** de desviación.
+- **ROI estimado del 779%**.
+- **Casos reales** con un impacto económico muy significativo.
+
+---
+
+## Estructura del Repositorio
+├── architecture/     # Esquemas de la arquitectura Data Lakehouse (Azure)
+├── models/           # Scripts y modelos de Machine Learning (R, Orange)
+├── dashboards/       # Informes y cuadros de mando en Power BI (.pbix)
+└── README.md
 
 ## Structure du Dépôt
 ├── architecture/     # Schémas de l'architecture Data Lakehouse (Azure)
